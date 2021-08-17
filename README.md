@@ -1,4 +1,4 @@
-# automation-CMFI
+# automation-cmfi
 Bringing automation to CMFI.
 
 #### Requirements
