@@ -1,2 +1,7 @@
-# sn-automatic-post
-Automatic Facebook post for the CMFI Facebook page
+# automation-CMFI
+Bringing automation to CMFI.
+
+#### Requirements
+
+- Create virtual environment: ```.\\.venv\\Scripts\activate.bat```
+- Dependencies: ``` pip install -r requirements.txt```
